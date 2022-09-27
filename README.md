@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# GCDLL
-=======
-# gcdll
->>>>>>> d1d65e8b1f8f59edb22957499864af98737e09bf
+# GCDLL —— An online AI image repairing website
+Further design is shown in README.md files in frontend and backend folders.
