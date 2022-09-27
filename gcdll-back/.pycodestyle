@@ -1,0 +1,2 @@
+[pycodestyle]
+filename=gallery/ai_fix.py,gallery/comment_check.py,gallery/get_access_tocken.py,gallery/io.py,gallery/models.py,gallery/views.py

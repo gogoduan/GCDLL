@@ -1,0 +1,6 @@
+[run]
+omit = 
+    gallery/test_*.py
+    gallery/views.py
+    gallery/ai_fix.py
+    gallery/migrations/*
